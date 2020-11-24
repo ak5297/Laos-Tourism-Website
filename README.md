@@ -1,6 +1,9 @@
 # Laos-Tourism-Website
 
-Live Website: https://people.rit.edu/~ak5297/iste240/project1/home.php
+Part 1: Static version of the website, hardcoded HTML and CSS data.
+Part 2: Redeveloped version of part 1 to create a dynamic website. Used PHP/SQL to store the data in the database and used SQL SELECT statements to retrieve this information.
+
+Live Website (part 1): https://people.rit.edu/~ak5297/iste240/project1/home.php
 
 This is my final project for my website development course. I created a website for tourism in Laos.
 
